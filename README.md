@@ -1,2 +1,2 @@
-# Microservice-JAZ
-Microservice-JAZ
+# RentalService
+RentalService

@@ -1,0 +1,13 @@
+pl/pjatk/kprusak/advice/RentalAdvice.class
+pl/pjatk/kprusak/service/MovieServiceClient.class
+pl/pjatk/kprusak/exception/MovieNotFoundException.class
+pl/pjatk/kprusak/exception/BadGatewayException.class
+pl/pjatk/kprusak/controller/RentalController.class
+pl/pjatk/kprusak/exception/GatewayTimeoutException.class
+pl/pjatk/kprusak/RentalServiceApplication.class
+pl/pjatk/kprusak/model/Category.class
+pl/pjatk/kprusak/config/RentalServiceConfig.class
+pl/pjatk/kprusak/dto/ErrorResponse.class
+pl/pjatk/kprusak/model/Movie.class
+pl/pjatk/kprusak/exception/BadRequestException.class
+pl/pjatk/kprusak/swagger/OpenApiConfiguration.class

@@ -1,0 +1,13 @@
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/RentalServiceApplication.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/advice/RentalAdvice.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/config/RentalServiceConfig.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/controller/RentalController.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/dto/ErrorResponse.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/exception/BadGatewayException.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/exception/BadRequestException.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/exception/GatewayTimeoutException.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/exception/MovieNotFoundException.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/model/Category.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/model/Movie.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/service/MovieServiceClient.java
+/Users/bartas058/Desktop/Studia/JAZ/RentalService/src/main/java/pl/pjatk/kprusak/swagger/OpenApiConfiguration.java
